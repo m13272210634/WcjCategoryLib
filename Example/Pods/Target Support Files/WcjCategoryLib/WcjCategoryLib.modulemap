@@ -1,0 +1,6 @@
+framework module WcjCategoryLib {
+  umbrella header "WcjCategoryLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "WcjCategoryLib",
+  "version": "0.3.0",
+  "summary": "A short description of WcjCategoryLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/m13272210634/WcjCategoryLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "m13272210634": "wangcj@op-mobile.com.cn"
+  },
+  "source": {
+    "git": "https://github.com/m13272210634/WcjCategoryLib.git",
+    "tag": "0.3.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WcjCategoryLib/Classes/**/*"
+}
