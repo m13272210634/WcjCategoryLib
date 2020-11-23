@@ -16,7 +16,7 @@
     NSAssert(window, @"The window is empty");    return window.rootViewController;
 }
 
-+ (UINavigationController *)jsd_getCurrentNavigationController{
++ (UINavigationController *)wcj_getCurrentNavigationController{
     UIViewController* currentViewController = [self wcj_getRootViewController];
     BOOL runLoopFind = YES;
     while (runLoopFind) {

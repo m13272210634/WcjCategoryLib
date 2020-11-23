@@ -4,7 +4,7 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - WcjCategoryLib (0.3.0)
+  - WcjCategoryLib (0.1.0)
 
 DEPENDENCIES:
   - FBSnapshotTestCase
@@ -20,7 +20,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  WcjCategoryLib: 2905252a6d61f8282c99eafe0150218cce4f1aea
+  WcjCategoryLib: 1e737c37c68b736cdebdac7af27c5a5d350023b8
 
 PODFILE CHECKSUM: 9b374bf5a9e08ddb1536313b67f0a46bcc5cf893
 

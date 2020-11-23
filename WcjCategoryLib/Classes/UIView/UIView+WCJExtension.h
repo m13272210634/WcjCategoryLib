@@ -28,9 +28,9 @@
 /**
  * xib中显示的属性
  */
-@property (nonatomic) IBInspectable UIColor *borderColor;
-@property (nonatomic) IBInspectable CGFloat borderWidth;
-@property (nonatomic) IBInspectable CGFloat cornerRadius;
-@property (nonatomic) IBInspectable BOOL masksToBounds;
+@property (nonatomic,strong) IBInspectable UIColor *borderColor;
+@property (nonatomic,assign) IBInspectable CGFloat borderWidth;
+@property (nonatomic,assign) IBInspectable CGFloat cornerRadius;
+@property (nonatomic,assign) IBInspectable BOOL masksToBounds;
 
 @end

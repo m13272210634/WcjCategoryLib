@@ -30,7 +30,7 @@
 }
 
 
-+ (instancetype)mh_viewFromXibWithFrame:(CGRect)frame {
++ (instancetype)wcj_viewFromXibWithFrame:(CGRect)frame {
     UIView *view = [self wcj_viewFromXib];
     view.frame = frame;
     return view;
