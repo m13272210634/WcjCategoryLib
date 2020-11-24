@@ -11,12 +11,14 @@
 #endif
 
 #import "NSArray+Extension.h"
+#import "NSObject+WCJAlert.h"
 #import "NSObject+WCJProperty.h"
 #import "UIFont+WCJExtension.h"
 #import "UIImage+WCJImgSize.h"
 #import "UIView+WCJ.h"
 #import "UIView+WCJExtension.h"
 #import "UIView+WCJFrame.h"
+#import "UIAlertController+Common.h"
 #import "UINavigationController+WCJExtenesion.h"
 
 FOUNDATION_EXPORT double WcjCategoryLibVersionNumber;
