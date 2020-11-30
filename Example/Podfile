@@ -4,6 +4,7 @@ source 'https://github.com/CocoaPods/Specs.git'
 source 'https://github.com/m13272210634/Specs.git'
 
 target 'WcjCategoryLib_Example' do
+#
   pod 'WcjCategoryLib', :path => '../'
 
   target 'WcjCategoryLib_Tests' do
